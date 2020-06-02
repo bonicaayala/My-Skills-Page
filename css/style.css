@@ -1,0 +1,29 @@
+body {
+    font-family: Poppins, sans-serif;
+  }
+
+.mySkills {
+    padding: 15px;
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 25px;
+    text-align: center;
+    line-height: 24px;
+    font-size: 18px; 
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 100px;
+    padding: 25px;
+    width: 150px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
